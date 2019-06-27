@@ -1,0 +1,14 @@
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\Release\Universe.Terminal.exe.config
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\Release\Universe.Terminal.exe
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\Release\Universe.Terminal.pdb
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Terminal.g.cs
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\App.g.cs
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal_MarkupCompile.cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal_MarkupCompile.lref
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Terminal.baml
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.g.resources
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.Properties.Resources.resources
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.csproj.GenerateResource.Cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.csproj.CoreCompileInputs.cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.exe
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\Release\Universe.Terminal.pdb

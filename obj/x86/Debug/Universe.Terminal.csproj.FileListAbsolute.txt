@@ -1,0 +1,14 @@
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\x86\Debug\Universe.Terminal.exe.config
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\x86\Debug\Universe.Terminal.exe
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\bin\x86\Debug\Universe.Terminal.pdb
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Terminal.g.cs
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\App.g.cs
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal_MarkupCompile.cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal_MarkupCompile.lref
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Terminal.baml
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.g.resources
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.Properties.Resources.resources
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.csproj.GenerateResource.Cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.csproj.CoreCompileInputs.cache
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.exe
+c:\Users\Eze\source\repos\Universe\Universe.Terminal\obj\x86\Debug\Universe.Terminal.pdb

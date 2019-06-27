@@ -1,0 +1,15 @@
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\bin\Debug\terminal.exe.config
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\bin\Debug\terminal.exe
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\bin\Debug\terminal.pdb
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\Eze.IO.Terminal.csprojAssemblyReference.cache
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\UI\Terminal.g.cs
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\App.g.cs
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\terminal_MarkupCompile.cache
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\terminal_MarkupCompile.lref
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\UI\Terminal.baml
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\terminal.g.resources
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\Eze.IO.Terminal.Properties.Resources.resources
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\Eze.IO.Terminal.csproj.GenerateResource.cache
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\Eze.IO.Terminal.csproj.CoreCompileInputs.cache
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\terminal.exe
+C:\Users\ezeah\Google Drive\Documents\Projects\Terminal\Eze.IO.Terminal\obj\Debug\terminal.pdb
